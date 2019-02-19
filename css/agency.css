@@ -489,6 +489,12 @@ header.masthead .intro-text .intro-heading {
 .timeline .timeline-body > p {
   margin-bottom: 0;
 }
+.divdesdiv{
+  margin-top: 2vw;
+}
+.divimg{
+  width: 100px;
+}
 
 @media (min-width: 768px) {
   .timeline:before {
